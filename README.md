@@ -2,6 +2,8 @@
 
 Recreate any brand video with AI agents, then make it yours.
 
+**August 2026 Update**: Now supports Kling 3.0 4K renders, Veo 3.1 native audio integration, Runway Gen-4.5 character consistency shots, and LTX 2.3 ID-LoRA character locking. Multi-model workflows now include audio generation and lip-sync capabilities.
+
 ## Who this is for
 
 You need a brand video that looks like it cost real money. You are not a motion designer, you do not
